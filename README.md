@@ -1,6 +1,7 @@
 # Music-Taste-as-a-Function-of-Happiness
 
 Music and Mental Health: A Comparative Analysis of Classification and Neural Network Techniques
+
 by Shon Shtern, Elizabeth Kelly, Shiying Cheng, Jenna Lorio, and Nithishma Allu
 
 Mental health and the status of a person’s emotional and psychological well-being can be greatly impacted by one’s music listening habits, in both positive and negative ways. In this paper, we aim to find a link between a person’s mental health status and their music listening habits to predict their favorite musical genre. In the process, we explored how these favorite genre predictions can be made using various machine-learning techniques, such as decision trees, support vector machines, and neural networks. Overall, we hypothesized that a person’s music choice will have a strong correlation with their mental and emotional health.
